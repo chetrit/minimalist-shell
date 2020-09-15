@@ -1,6 +1,6 @@
 # minimalist-shell
 
-> minimalist-shell is as its name says a minimalistic unix shell, which includes all the basic features of a shell, that is to say some built-ins (cd, setenv, unsetenv), all the basic comands using PATH env variable (ls, tree, pwd), redirections and pipes, and a basic error handling. You can find the evolved version of this project here: link.
+> minimalist-shell is as its name says a minimalistic unix shell, which includes all the basic features of a shell, that is to say some built-ins (cd, setenv, unsetenv), all the basic comands using PATH env variable (ls, tree, pwd), redirections and pipes, and a basic error handling. You can find the evolved version of this project [here](https://github.com/chetrit/tcsh-clone).
 
 # Installation, compilation and utilization
 #### Installation
